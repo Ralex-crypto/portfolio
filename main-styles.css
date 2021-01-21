@@ -136,6 +136,9 @@
     height: 400px;
     border-radius: 50%;
   }
+  #education{
+    min-height: 80vh;
+  }
   .container-fluid{
     overflow-x:hidden;
   }
