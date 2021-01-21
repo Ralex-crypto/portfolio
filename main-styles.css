@@ -6,7 +6,7 @@
     --color-tertiary: #6c3;
     --color-paragraph-bg: #CFCCD6;
     --color-text-p: #dcdcdc;
-    --color-text-heading: ##1090c9;
+    --color-text-heading: #1090c9;
     --osc-wrap: calc(100% - 15vmin);
     scroll-behavior: smooth; 
   }
