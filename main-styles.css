@@ -516,8 +516,6 @@ box-shadow: 3px 6px 10px 0px rgba(0,0,0,0.5);
     }
     .time-line-block{
       width: 100%;
-      background-color: #fff;
-      border: 1px solid #ddd;
       margin: 0 0;
       padding: 30px;
       position: relative;
