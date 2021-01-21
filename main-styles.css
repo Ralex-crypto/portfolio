@@ -226,8 +226,8 @@
   
   .time-line-block{
     width: calc(50% - 20px);
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #dee6e2;
+    border: 1px solid #cecccc;
     margin: 10px 0;
     padding: 30px;
     position: relative;
@@ -274,7 +274,7 @@ box-shadow: 3px 6px 10px 0px rgba(0,0,0,0.5);
     padding: 20px;
   }
   .grid a {
-    background-color: white;
+    background-color: #dee6e2;
   }
   .grid-item img {
     width: 100%;
