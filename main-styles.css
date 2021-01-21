@@ -5,7 +5,7 @@
     --color-secondary: #223843;
     --color-tertiary: #6c3;
     --color-paragraph-bg: #CFCCD6;
-    --color-text-p: #2e2e2e;
+    --color-text-p: #dcdcdc;
     --color-text-heading: #0f2b4f;
     --osc-wrap: calc(100% - 15vmin);
     scroll-behavior: smooth; 
